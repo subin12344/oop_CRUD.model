@@ -1,0 +1,30 @@
+ul li{
+    list-style-type: none;
+    margin-bottom: 20px;
+}
+.empform{       
+    background-color: lightblue;
+}
+.sbtn{
+    padding: 5px 10px;
+    font-size: 20px;
+    background-color: #03a9f4;
+    color: #fff;
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+.left{
+    width: 30%;
+    float: left;
+}
+.right{
+    width: 70%;
+    float: left;
+}
+.emplist,.emplist td,.emplist th{
+    border:1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
